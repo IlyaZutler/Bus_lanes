@@ -2,7 +2,6 @@
 Travel time savings if fleets are allowed to use dedicated bus lanes
 
 
-Estimating Time Savings When Using Bus Lanes
 
 This project analyzes vehicle trip data to estimate potential time savings if fleet vehicles are allowed to use bus lanes. The analysis is based on GPS coordinates of vehicle trips and geographical information about designated bus lanes.
 
